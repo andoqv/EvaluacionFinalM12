@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121460427771",
+    "project_id": "integrar-ya-169122"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121460427771:android:05591602f6caf000",
+        "android_client_info": {
+          "package_name": "com.example.andres.evaluacionfinalm12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121460427771-82hoc63mr5bqoh7sub4r5llg69iidf56.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "121460427771-2fh6i9svlaj08eko0qe85ib9bng6i9o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andres.evaluacionfinalm12",
+            "certificate_hash": "0aaeeb33076ea68465c2644b84442037f0407f92"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOak2JSIRYz6_Z-ogIIWEp-cEzpTmSIsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

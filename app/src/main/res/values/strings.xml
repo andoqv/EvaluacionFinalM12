@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+
+    <string name="facebook_app_id">857522834416969</string>
+    <string name="social_api_s">Social API\'S</string>
+
+    <string name="Error_Reproduccion">Error en la Reproduccion</string>
+    <string name="name_display_here">Name Display Here</string>
+    <string name="email_display">Email Display Here</string>
+    <string name="logout_google_account">LogOut Google Account</string>
+    <string name="ir_a_google">Ir a Google+</string>
+    <string name="volver_a_la_pantalla_anterior">Volver a la Pantalla anterior</string>
+    <string name="google_api_s">Google+ API\'S</string>
+    <string name="id_app">ca-app-pub-7449513800552448~5338531410</string>
+    <string name="id_banner">ca-app-pub-7449513800552448/6815264618</string>
+    <string name="id_intersticial_ad">ca-app-pub-7449513800552448/8291997810
+    </string>
+    <string name="id_video_ad">ca-app-pub-7449513800552448/9768731011</string>
+    <string name="id_native_ad">ca-app-pub-7449513800552448/5198930611</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vert_hori">16dp</dimen>
+    <dimen name="picture_width">90dp</dimen>
+    <dimen name="textProfPicSize">18sp</dimen>
+    <dimen name="email_text_size">12sp</dimen>
+</resources>
